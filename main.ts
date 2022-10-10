@@ -5,5 +5,5 @@ basic.showNumber(4)
 basic.showNumber(5)
 basic.showNumber(6)
 basic.forever(function () {
-	
+    basic.showString("Hello!")
 })
